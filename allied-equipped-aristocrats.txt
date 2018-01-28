@@ -1,0 +1,25 @@
+2 Ayli, Eternal Pilgrim
+3 Blessed Alliance
+3 Captain's Claws
+3 Essence Extraction
+2 Evolving Wilds
+4 Forsaken Sanctuary
+4 Kalastria Healer
+4 Lone Rider
+4 Neglected Heirloom
+8 Plains
+2 Shambling Vent
+4 Stone Haven Outfitter
+4 Stoneforge Acolyte
+3 Stoneforge Masterwork
+6 Swamp
+4 Zulaport Cutthroat
+
+Sideboard:
+2 Avacynian Missionaries
+3 Courageous Outrider
+2 Kambal, Consul of Allocation
+3 Lantern Scout
+2 Restoration Gearsmith
+4 Town Gossipmonger
+

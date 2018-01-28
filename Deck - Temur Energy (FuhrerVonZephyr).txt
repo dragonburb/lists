@@ -1,0 +1,25 @@
+4 Abrade
+4 Aether Hub
+4 Attune with Aether
+4 Botanical Sanctum
+5 Forest
+2 Game Trail
+4 Glorybringer
+4 Harnessed Lightning
+1 Island
+2 Mountain
+3 Rhonas the Indomitable
+4 Savage Knuckleblade
+4 Servant of the Conduit
+4 Spirebluff Canal
+3 Supreme Will
+4 Sylvan Advocate
+4 Thunderbreak Regent
+
+Sideboard
+
+4 Disdainful Stroke
+3 Feed the Clan
+2 Naturalize
+3 Stubborn Denial
+3 Sweltering Suns

@@ -1,0 +1,27 @@
+3 Anafenza, Kin-Tree Spirit
+2 Anticipate
+4 Bygone Bishop
+4 Essence Flux
+4 Evolving Wilds
+6 Island
+4 Meandering River
+4 Negate
+3 Ojutai's Command
+10 Plains
+4 Rattlechains
+4 Reflector Mage
+1 Silkwrap
+3 Stasis Snare
+3 Stratus Dancer
+2 Thunderclap Wyvern
+
+Sideboard:
+3 Dispel
+2 Invasive Surgery
+2 Invocation of Saint Traft
+2 Roil Spout
+2 Silkwrap
+1 Stasis Snare
+1 Stratus Dancer
+2 Topplegeist
+

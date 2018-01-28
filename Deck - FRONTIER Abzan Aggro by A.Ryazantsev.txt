@@ -1,0 +1,32 @@
+4 Abzan Charm
+2 Anafenza, the Foremost
+3 Blooming Marsh
+1 Canopy Vista
+3 Caves of Koilos
+3 Concealed Courtyard
+1 Dromoka's Command
+3 Forest
+2 Gideon, Ally of Zendikar
+2 Grasp of Darkness
+4 Grim Flayer
+2 Hissing Quagmire
+2 Kalitas, Traitor of Ghet
+3 Liliana, the Last Hope
+3 Llanowar Wastes
+2 Murder
+1 Plains
+2 Shambling Vent
+4 Siege Rhino
+1 Swamp
+4 Sylvan Advocate
+4 Verdurous Gearhulk
+4 Windswept Heath
+
+Sideboard
+
+4 Arashin Cleric
+1 Dromoka's Command
+4 Duress
+2 Hallowed Moonlight
+2 Infinite Obliteration
+2 Naturalize

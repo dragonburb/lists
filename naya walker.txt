@@ -1,0 +1,38 @@
+
+4	Elvish Mystic	
+3	Narnam Renegade
+3	Sylvan Advocate	
+
+4	Nissa, Voice of Zendikar	
+2	Ajani Steadfast	
+2	Chandra, Torch of Defiance	
+3	Gideon, Ally of Zendikar	
+1	Nahiri, the Harbinger	
+1	Ajani Unyielding	
+1	Chandra, Flamecaller	
+
+3	Heart of Kiran
+
+3	Oath of Nissa	
+3	Oath of Ajani	
+2	Oath of Gideon	
+2	Stasis Snare	
+
+2	Blighted Steppe		
+4	Canopy Vista		
+2	Cinder Glade		
+4	Forest		
+3	Plains		
+4	Windswept Heath		
+4	Wooded Foothills
+		
+Sideboard (15)
+
+2	Tormod's Crypt	
+2	Natural State	
+2	Secure the Wastes	
+3	Dromoka's Command	
+2	Hallowed Moonlight	
+2	Thopter Arrest
+1	Nahiri, the Harbinger
+1	Fumigate

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Port Town"/>
+        <card number="4" name="Prairie Stream"/>
+        <card number="2" name="Evolving Wilds"/>
+        <card number="6" name="Plains"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Drownyard Temple"/>
+        <card number="1" name="Geier Reach Sanitarium"/>
+        <card number="4" name="Lone Rider"/>
+        <card number="2" name="Jace, Vryn's Prodigy"/>
+        <card number="4" name="Wharf Infiltrator"/>
+        <card number="4" name="Gisela, the Broken Blade"/>
+        <card number="3" name="Bruna, the Fading Light"/>
+        <card number="3" name="Reflector Mage"/>
+        <card number="2" name="Thalia's Lancers"/>
+        <card number="1" name="Linvala, the Preserver"/>
+        <card number="3" name="Spell Queller"/>
+        <card number="3" name="Ojutai's Command"/>
+        <card number="2" name="Blessed Alliance"/>
+        <card number="1" name="Declaration in Stone"/>
+        <card number="1" name="Artful Maneuver"/>
+        <card number="1" name="Healing Hands"/>
+        <card number="1" name="Hedron Archive"/>
+    </zone>
+</cockatrice_deck>

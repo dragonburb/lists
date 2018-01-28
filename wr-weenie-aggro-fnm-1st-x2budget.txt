@@ -1,0 +1,28 @@
+3 Alesha, Who Smiles at Death
+3 Anafenza, Kin-Tree Spirit
+4 Arashin Foremost
+2 Artful Maneuver
+4 Battlefield Forge
+2 Citadel Siege
+4 Evolving Wilds
+4 Fiery Impulse
+2 Knight of the White Orchid
+2 Kytheon, Hero of Akros
+4 Mardu Woe-Reaper
+5 Mountain
+2 Outpost Siege
+7 Plains
+2 Rogue's Passage
+4 Seeker of the Way
+2 Silkwrap
+2 Stasis Snare
+2 War-Name Aspirant
+
+Sideboard:
+3 Dragon Hunter
+2 Dragonscale General
+3 Enshrouding Mist
+2 Feat of Resistance
+2 Felidar Cub
+3 Surge of Righteousness
+

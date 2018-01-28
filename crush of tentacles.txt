@@ -1,0 +1,37 @@
+
+3  Blighted Woodland
+1  Evolving Wilds
+10  Forest
+4  Island
+4  Lumbering Falls
+1  Rogue's Passage
+2  Yavimaya Coast
+2  Bounding Krasis
+3  Den Protector
+3  Elvish Visionary
+2  Jace, Vryn's Prodigy
+2  Nissa, Vastwood Seer
+4  Sylvan Advocate
+1  Ulvenwald Hydra
+1  Void Grafter
+1  World Breaker
+
+1  Kiora, Master of the Depths
+4  Crush of Tentacles
+2  Nissa's Pilgrimage
+1  Nissa's Renewal
+1  Sight Beyond Sight
+2  Traverse the Ulvenwald
+2  Pulse of Murasa
+3  Oath of Nissa
+ 
+Sideboard
+1  Bounding Krasis
+1  Den Protector
+1  Void Grafter
+2  Displacement Wave
+4  Jaddi Offshoot
+2  Negate
+1  Sphinx of the Final Word
+1 Surrak, the Hunt Caller
+2  Void Shatter

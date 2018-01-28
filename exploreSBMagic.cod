@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Deadeye Tracker"/>
+        <card number="2" name="Ixalli's Diviner"/>
+        <card number="4" name="Merfolk Branchwalker"/>
+        <card number="4" name="Seekers' Squire"/>
+        <card number="4" name="Tishana's Wayfinder"/>
+        <card number="4" name="Wildgrowth Walker"/>
+        <card number="4" name="Winding Constrictor"/>
+        <card number="4" name="Blossoming Defense"/>
+        <card number="4" name="Shadowed Caravel"/>
+        <card number="4" name="Walk the Plank"/>
+        <card number="2" name="Desert of the Glorified"/>
+        <card number="1" name="Desert of the Indomitable"/>
+        <card number="6" name="Forest"/>
+        <card number="3" name="Hashep Oasis"/>
+        <card number="4" name="Ifnir Deadlands"/>
+        <card number="6" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Battle at the Bridge"/>
+        <card number="3" name="Doomfall"/>
+        <card number="4" name="Duress"/>
+        <card number="2" name="Harsh Scrutiny"/>
+        <card number="2" name="Sentinel Totem"/>
+    </zone>
+</cockatrice_deck>
